@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 VJ's Chat GPT app
 
 A simple Streamlit app template for you to modify!
 
